@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aurimas-stack,
 - 🌱 I’m currently learning React & Typescript,
-- 📫 How to reach me https://www.linkedin.com/in/aurimas-%C5%BE-b09b0221a/ ,
+- 📫 How to reach me https://www.linkedin.com/in/aurimas-%C5%BEedelis-b09b0221a/ ,
 - 🔍 Check my projects in repositories
 
 <!---
