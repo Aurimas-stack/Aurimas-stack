@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Aurimas-stack,
-- 🌱 I’m currently learning React & Typescript,
-- 📫 How to reach me https://www.linkedin.com/in/aurimas-%C5%BEedelis-b09b0221a/ ,
-- 🔍 Check my projects in repositories
 
-<!---
-Aurimas-stack/Aurimas-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
